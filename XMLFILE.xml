@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestSuite" thread-count="2" preserve-order="true">
+     <parameter name="UserName" value="aishwaryachaudhary" />
+     <parameter name="Password" value="Aishwarya@321#"/>
+  <test name="Regression 1">
+  
+    <classes>
+      <class name="com.qait.Automation.DataProvider.DataProviderTestNG"/>
+     
+    </classes>
+  </test>
+   
+   
+</suite>
+
+
+ 
